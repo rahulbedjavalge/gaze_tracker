@@ -11,7 +11,7 @@ This project implements a gaze tracking system using OpenCV and MediaPipe, combi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/rahulbedjavalge/gaze_tracker)
    ```
 2. Navigate to the project directory:
    ```bash
